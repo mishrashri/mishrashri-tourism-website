@@ -8,4 +8,4 @@ https://mishrashri-tourism-website.netlify.app/
 - Back end
   - NodeJS
 - Database
-  - MongoDB
+  - Firebase
